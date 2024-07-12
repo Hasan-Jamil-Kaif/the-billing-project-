@@ -170,7 +170,7 @@ int main(){
         break;
 
     case 4:
-    printf("\n\t\t JOI BANGLA :)\n\n");
+    printf("\n\t\t JOY BANGLA :)\n\n");
     exit(0);
     break;
 
