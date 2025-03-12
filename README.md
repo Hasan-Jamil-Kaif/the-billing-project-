@@ -181,7 +181,7 @@ int main(){
     printf("\nDo you want to perform another operation?[y/n]:\t");
     scanf("%s",&contFlag);
     }
-    printf("\n\t\t JOI BANGLA :)\n\n");
+    printf("\n\t\t WE DONT TALK ANY MORE  :)\n\n");
     printf("\n\n");
 
     return 0;
